@@ -1,0 +1,4 @@
+REST API - JSON
+
+GET/users - HTML document Render(SSR);
+GET/api/users - List of all users JSON
